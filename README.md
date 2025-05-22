@@ -2,9 +2,12 @@
 
 ## 🎥 Project Demo
 
-[![Watch the Demo on YouTube](https://img.youtube.com/vi/lYTo1u_WNCw/0.jpg)](https://youtu.be/lYTo1u_WNCw)
+<a href="https://youtu.be/lYTo1u_WNCw" target="_blank">
+  <img src="https://img.youtube.com/vi/lYTo1u_WNCw/0.jpg" alt="Watch the Demo on YouTube" width="480">
+</a>
 
-Click the image above or [watch the full demo here](https://youtu.be/lYTo1u_WNCw).
+Click the image above or [watch demo here](https://youtu.be/lYTo1u_WNCw).
+
 
 This project is a simple Image Gallery CRUD (Create, Read, Update, Delete) application. It allows users to upload, view, edit, and delete images. The app demonstrates basic CRUD functionalities.
 
