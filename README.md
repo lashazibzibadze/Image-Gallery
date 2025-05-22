@@ -1,6 +1,10 @@
 # Image Gallery CRUD Application
 
-[![Watch the demo on YouTube](https://youtu.be/lYTo1u_WNCw)](https://youtu.be/lYTo1u_WNCw)
+## 🎥 Project Demo
+
+[![Watch the Demo on YouTube](https://img.youtube.com/vi/lYTo1u_WNCw/0.jpg)](https://youtu.be/lYTo1u_WNCw)
+
+Click the image above or [watch the full demo here](https://youtu.be/lYTo1u_WNCw).
 
 This project is a simple Image Gallery CRUD (Create, Read, Update, Delete) application. It allows users to upload, view, edit, and delete images. The app demonstrates basic CRUD functionalities.
 
@@ -12,5 +16,5 @@ This project is a simple Image Gallery CRUD (Create, Read, Update, Delete) appli
 - Delete images from the gallery
 
 
-## NOTE: It's not the best practice to include API keys in the code on GitHub.
-## In case you want to run this code, I uploaded .env on Brightspace.
+> ⚠️ **Note:** For security reasons, it's not best practice to include API keys directly in your code or commit them to GitHub.
+> If you'd like to run this project locally, the required `.env` file has been uploaded to Brightspace.
